@@ -24,4 +24,4 @@ def calc_primes(start, end):
         print(prime_numbers)
 
 
-calc_primes(15, 250)
+calc_primes(1, 250)
